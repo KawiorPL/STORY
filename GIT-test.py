@@ -27,6 +27,6 @@ print(f"max is: {z}")
 y=random.randint(75,100)
 
 if y - z>0:
-    print(f"You win = Your number {y} and my number {z}")
+    print(f"You win = Your number {y} and my number {z}!!!")
 else:
-    print(f"I win Your number {y} and my number {z}")
+    print(f"I win Your number {y} and my number {z}!!!")
